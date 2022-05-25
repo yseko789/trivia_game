@@ -1,0 +1,36 @@
+.screen{
+    height: 100vh;
+    background-color: #EDE7E3;
+}
+
+.question-container{
+    /* border: black 2px solid; */
+    border-radius: 25px;
+    height: 50%;
+    background-color: white;
+}
+
+.answer-container{
+   /* background-color: white; */
+   height: 20%;
+    
+}
+
+.question-text{
+    font-size: 3em;
+}
+
+
+
+
+.answer-btn{
+    background-color: #FFA62B;
+    width: 49%;
+    margin: 0.5%;
+    height: 49%;
+    font-size: 1em;
+}
+
+.hover{
+    background-color: rgb(255, 144, 120);
+}
